@@ -3,7 +3,7 @@ School Projects Portfolio This repository contains a collection of my school pro
 
 **School  Projects**
 
-**Optimal Design of Vertical Machining Center Structure**
+1. **Optimal Design of Vertical Machining Center Structure**
 
 **Objective**: To optimize a vertical CNC machining center's structure, increasing rigidity by 40% while preserving mass and dimensions using SolidWorks and FE analysis.
 
@@ -15,7 +15,7 @@ School Projects Portfolio This repository contains a collection of my school pro
 
 
 
-**Design, Assembly, and Operation of a CNC 3-Axis Plotter**
+2. **Design, Assembly, and Operation of a CNC 3-Axis Plotter**
 
 **Objective**: To design, assemble, and operate a CNC 3-axis plotter by integrating hardware components, configuring compatible software
 
