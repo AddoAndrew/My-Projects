@@ -3,9 +3,9 @@ School Projects Portfolio This repository contains a collection of my school pro
 
 School  Projects
 
-Optimal Design of Vertical Machining Center Structure
+**Optimal Design of Vertical Machining Center Structure**
 
-Objective: To optimize a vertical CNC machining center's structure, increasing rigidity by 40% while preserving mass and dimensions using SolidWorks and FE analysis.
+**Objective**: To optimize a vertical CNC machining center's structure, increasing rigidity by 40% while preserving mass and dimensions using SolidWorks and FE analysis.
 
 •	Conducted a topology study using SolidWorks to identify critical areas for material optimization.
 
@@ -14,9 +14,9 @@ Objective: To optimize a vertical CNC machining center's structure, increasing r
 •	3D printed the optimized design and presented results to the class in a presentation.
 
 
-Design, Assembly, and Operation of a CNC 3-Axis Plotter
+**Design, Assembly, and Operation of a CNC 3-Axis Plotter**
 
-Objective: To design, assemble, and operate a CNC 3-axis plotter by integrating hardware components, configuring compatible software
+**Objective**: To design, assemble, and operate a CNC 3-axis plotter by integrating hardware components, configuring compatible software
 
 •	Assembled all hardware components to construct the CNC 3-axis plotter.
 
@@ -25,9 +25,9 @@ Objective: To design, assemble, and operate a CNC 3-axis plotter by integrating 
 •	Demonstrated the plotter's functionality in a class presentation by successfully drawing a figure.
 
 
-Design, and Manufacturing of a Gearbox Using SolidWorks, and CNC Machining
+**Design, and Manufacturing of a Gearbox Using SolidWorks, and CNC Machining**
 
-Objective: To design, and manufacture a gearbox (top cover, housing, and side cover) using SolidWorks, CNC machining for fabrication. 
+**Objective**: To design, and manufacture a gearbox (top cover, housing, and side cover) using SolidWorks, CNC machining for fabrication. 
 
 •	Designed the gearbox using SolidWorks.
 
@@ -36,9 +36,9 @@ Objective: To design, and manufacture a gearbox (top cover, housing, and side co
 •	Machined the parts using a HAAS CNC machine, ensuring precision and quality in fabrication.
 
 
-3D FDM printer design and development
+**3D FDM printer design and development**
 
-Objective: To design, develop, and fabricate a functional 3D FDM printer by repurposing an existing CNC machine frame and controller
+**Objective**: To design, develop, and fabricate a functional 3D FDM printer by repurposing an existing CNC machine frame and controller
 
 •	Assembled the CNC machine frame to serve as the foundation for the 3D printer.
 
