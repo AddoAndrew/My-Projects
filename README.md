@@ -2,8 +2,11 @@
 School Projects Portfolio This repository contains a collection of my school projects, completed as part of my coursework at the University of California, Stockton. The projects showcase my skills in engineering, programming, problem-solving, and teamwork.
 
 School  Projects
+
 Optimal Design of Vertical Machining Center Structure
+
 Objective: To optimize a vertical CNC machining center's structure, increasing rigidity by 40% while preserving mass and dimensions using SolidWorks and FE analysis.
+
 •	Conducted a topology study using SolidWorks to identify critical areas for material optimization.
 •	Performed static stress analysis to evaluate structural integrity and performance.
 •	3D printed the optimized design and presented results to the class in a presentation.
