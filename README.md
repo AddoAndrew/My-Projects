@@ -27,7 +27,7 @@ School Projects Portfolio This repository contains a collection of my school pro
 
 
 
-**Design, and Manufacturing of a Gearbox Using SolidWorks, and CNC Machining**
+3. **Design, and Manufacturing of a Gearbox Using SolidWorks, and CNC Machining**
 
 **Objective**: To design, and manufacture a gearbox (top cover, housing, and side cover) using SolidWorks, CNC machining for fabrication. 
 
@@ -39,7 +39,7 @@ School Projects Portfolio This repository contains a collection of my school pro
 
 
 
-**3D FDM printer design and development**
+4. **3D FDM printer design and development**
 
 **Objective**: To design, develop, and fabricate a functional 3D FDM printer by repurposing an existing CNC machine frame and controller
 
