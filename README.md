@@ -1,7 +1,7 @@
 # Project Portfolio
 School Projects Portfolio This repository contains a collection of my school projects, completed as part of my coursework at the University of California, Stockton. The projects showcase my skills in engineering, programming, problem-solving, and teamwork.
 
-School  Projects
+**School  Projects**
 
 **Optimal Design of Vertical Machining Center Structure**
 
@@ -12,6 +12,7 @@ School  Projects
 •	Performed static stress analysis to evaluate structural integrity and performance.
 
 •	3D printed the optimized design and presented results to the class in a presentation.
+
 
 
 **Design, Assembly, and Operation of a CNC 3-Axis Plotter**
@@ -25,6 +26,7 @@ School  Projects
 •	Demonstrated the plotter's functionality in a class presentation by successfully drawing a figure.
 
 
+
 **Design, and Manufacturing of a Gearbox Using SolidWorks, and CNC Machining**
 
 **Objective**: To design, and manufacture a gearbox (top cover, housing, and side cover) using SolidWorks, CNC machining for fabrication. 
@@ -34,6 +36,7 @@ School  Projects
 •	Generated machining processes using Esprit software to create toolpaths for CNC operations.
 
 •	Machined the parts using a HAAS CNC machine, ensuring precision and quality in fabrication.
+
 
 
 **3D FDM printer design and development**
